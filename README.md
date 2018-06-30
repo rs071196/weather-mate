@@ -7,4 +7,4 @@ This website supports global locations and has customizable Live Tile support. I
 # i have used php and its api to extract contents of weather-forecast.com 
 
 i have upoalded this on 000webhost & the link to this website is given below:
-# rs071196.000webhost.com
+# http://rs071196.000webhostapp.com/weather/
